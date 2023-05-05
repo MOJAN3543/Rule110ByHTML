@@ -1,6 +1,8 @@
 # Rule110ByHTML
 Rule110 Simulator with HTML &amp; CSS  
   
+직접 해보려면 >> [**여기**](https://mojan3543.github.io/Rule110ByHTML) <<
+   
 Rule 110을 HTML과 CSS로 에뮬레이팅 한 사이트입니다! [**Rule 110이 뭐냐구요?**](https://mojan3543.github.io/ProgrammingByHTML/)  
 
 ## 1. 사용법
