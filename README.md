@@ -1,9 +1,7 @@
 # Rule110ByHTML
 Rule110 Simulator with HTML &amp; CSS  
-  
-직접 해보려면 >> [**여기**](https://mojan3543.github.io/Rule110ByHTML) <<
    
-Rule 110을 HTML과 CSS로 에뮬레이팅 한 사이트입니다! [**Rule 110이 뭐냐구요?**](https://mojan3543.github.io/ProgrammingByHTML/)  
+Rule 110을 HTML과 CSS로 구현한 결과물 입니다. [**Rule 110이 뭐냐구요?**](https://mojan3543.github.io/ProgrammingByHTML/)  
 
 ## 1. 사용법
 특정 셀을 클릭하면, 다음에 클릭해야 할 셀을 자동으로 표기 해줍니다. 이를 따라 계속 클릭하면 Rule 110을 실행하고 계신겁니다.
